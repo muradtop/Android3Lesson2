@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_calendar_bottom_navigation"
+        android:title="@string/dictionary" />
+    <item
+        android:icon="@drawable/ic_book_bottom_navigation"
+        android:title="@string/learning" />
+    <item
+        android:icon="@drawable/ic_user_bottom_navigation"
+        android:title="@string/my_profile" />
+</menu>
